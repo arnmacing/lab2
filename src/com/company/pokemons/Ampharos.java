@@ -3,7 +3,7 @@ package com.company.pokemons;
 import ru.ifmo.se.pokemon.*;
 import com.company.actions.*;
 
-public class Ampharos extends Pokemon  {
+public class Ampharos extends Flaaffy  {
     public Ampharos(String name,int level){
         super(name,level);
         setType(Type.ELECTRIC);
