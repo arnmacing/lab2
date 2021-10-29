@@ -3,7 +3,7 @@ package com.company.pokemons;
 import ru.ifmo.se.pokemon.*;
 import com.company.actions.*;
 
-public class Flaaffy extends Pokemon  {
+public class Flaaffy extends Mareep  {
     public Flaaffy(String name,int level){
         super(name,level);
         setType(Type.ELECTRIC);
